@@ -89,4 +89,4 @@ The addressing and VLAN design creates a stable foundation for the rest of the p
 
 
 
-**Next part:**
+**Next part:** [Basic Device Configuration](03-basic-device-configuration.md)
