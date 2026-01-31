@@ -40,7 +40,7 @@ The main objective of this project is to show how security principles are applie
 - **Management Zone (VLAN 99)**  
     Dedicated network for secure administration of routers, switches, and the firewall.
     
-- **Server Zone** (Windows server 2022)
+- **Server Zone (Windows server 2022)**
     Protected internal zone hosting core services such as DHCP, DNS, and HTTP.
     
 - **User Zone**  
