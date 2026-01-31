@@ -69,7 +69,7 @@ The final chapter improves security at the device level. Centralized authenticat
 <br>
 
 
-**Back to project overview:** 
+**Back to project overview:** [README](README.md) 
 
 
 
