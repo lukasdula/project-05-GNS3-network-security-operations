@@ -671,7 +671,7 @@ At this point, all main services are working together and network connectivity a
 <br>
 
 
-**Next Chapter:**
+**Next Chapter:** [OPNsense Firewall and NAT/PAT](07-opnsense-firewall-and-nat-pat.md)
 
 
 
