@@ -127,5 +127,5 @@ The topology provides a clear foundation for further configuration. The next cha
 
 <br>
 
-**Next Chapter:**
+**Next Chapter:** [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)
 
