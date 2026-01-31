@@ -32,7 +32,7 @@ VLAN 99 is used for switch management. Management IP addresses and routing are c
     * Verify basic management connectivity and GUI access
     
 
-1.  OPNsense – VLAN Interfaces Assignment**
+1.  OPNsense – VLAN Interfaces Assignment
 
     - Create VLAN interfaces tagged uplink to switch (802.1Q)
     
