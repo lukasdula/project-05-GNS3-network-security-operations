@@ -510,7 +510,7 @@ The next chapter focuses on **advanced security configuration of Cisco switches 
 
 <br>
 
-**Next Chapter:**
+**Next Chapter:** [Remote Access VPN – WireGuard](08-remote-access-vpn-wireguard.md)
 
 
 
