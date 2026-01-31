@@ -25,7 +25,7 @@ VLAN 99 is used for switch management. Management IP addresses and routing are c
 
 
 
- 1. OPNsense – Initial Access and Management**
+ 1. OPNsense – Initial Access and Management
     
     * Establish console access to OPNsense from the NET-ADMIN host
     
@@ -39,7 +39,7 @@ VLAN 99 is used for switch management. Management IP addresses and routing are c
     * Assign VLAN interfaces and configure IPv4 gateway addresses
     
     
-2.  VLAN 99 – Management Routing**
+2.  VLAN 99 – Management Routing
     
     
 3.  Static Routing – WAN / ISP / Internet
