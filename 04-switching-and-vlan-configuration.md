@@ -855,4 +855,4 @@ As a result, the Layer 2 environment is stable and ready for operation, and the 
 <br>
 
 
-**Next Chapter:**
+**Next Chapter:** [Routing and OPNsense Integration](05-routing-and-opnsense-integration.md)
