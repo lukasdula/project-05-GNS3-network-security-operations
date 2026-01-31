@@ -57,25 +57,25 @@ The main objective of this project is to show how security principles are applie
 
 ## **Project Structure**
 
-1. Network Topology and Devices
+1. [Network Topology and Devices](01-network-topology-and-devices.md)
     
-2. Addressing and VLAN Planning
+2. [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)
     
-3. Basic Device Configuration
+3. [Basic Device Configuration](03-basic-device-configuration.md)
     
-4. Switching and VLAN Configuration
+4. [Switching and VLAN Configuration](04-switching-and-vlan-configuration.md)
     
-5. Routing and OPNsense Integration
+5. [Routing and OPNsense Integration](05-routing-and-opnsense-integration.md)
     
-6. Core Server Services
+6. [Core Server Services](06-core-server-services.md)
     
-7. OPNsense Firewall and NAT/PAT
+7. [OPNsense Firewall and NAT/PAT](07-opnsense-firewall-and-nat-pat.md)
     
-8. Remote Access VPN – WireGuard
+8. [Remote Access VPN – WireGuard](08-remote-access-vpn-wireguard.md)
     
-9. Advanced Network Device Security
+9. [Advanced Network Device Security](09-advanced-network-device-security.md)
     
-10. Conclusion and Summary
+10. [Conclusion and Summary](10-conclusion-and-summary.md)
 
 
 
