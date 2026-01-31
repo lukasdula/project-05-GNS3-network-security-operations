@@ -146,7 +146,7 @@ This project closes the first series of five GNS3 projects focused mostly on Cis
 
 A key learning point was using OPNsense for the first time as both a router and firewall rather than a Cisco router. Working with VLAN routing and firewall rules using the OPNsense GUI was clear and intuitive, and defining access policies was simpler than using ACLs in Cisco CLI.
 
-I also got practical experience with WireGuard VPN and remote administration from a SOHO environment, as well as with RADIUS authentication for better device security. This network feels like the most secure design I have built so far, and working on the security parts was interesting and motivating while I was learning to work with OPNsense.
+I first worked with WireGuard VPN and remote administration from a SOHO environment, and I also used RADIUS authentication to improve device security. This is the most secure network I have built so far. Working on the security parts was interesting and motivating, and it helped me learn how to work with OPNsense.
 
 
 <br>
