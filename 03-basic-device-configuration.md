@@ -523,5 +523,5 @@ With interface descriptions applied across routers and switches, the topology is
 
 <br>
 
-**Next Chapter:**
+**Next Chapter:** [Switching and VLAN Configuration](04-switching-and-vlan-configuration.md)
 
