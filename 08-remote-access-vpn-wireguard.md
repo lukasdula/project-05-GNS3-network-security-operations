@@ -598,4 +598,4 @@ The network is now ready for secure remote administration. The next chapter focu
 
 <br>
 
-**Next Chapter:**
+**Next Chapter:** [Advanced Network Device Security](09-advanced-network-device-security.md)
