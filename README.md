@@ -167,12 +167,4 @@ I also got practical experience with WireGuard VPN and remote administration fro
 
 
 
-Cisco-based security-focused enterprise network in GNS3 using OPNsense firewall, RADIUS authentication, Windows Server (DHCP DNS HTTP), WireGuard VPN access, and segmented VLAN design.
-
-
-
-
-
-
-
 
